@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hola! Soy Alberto Cortés Herranz 👋
+  ¡Hola! Soy Alberto Cortés Herranz 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-cort%C3%A9s-p%C3%A9rez-0b616a245/" target="_blank">
+  <a href="https://www.linkedin.com/in/alberto-cort%C3%A9s-herranz-051b25258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:alejandro.cortes.perez@alu.uclm.es" target="_blank">
@@ -40,9 +40,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ensamblador-6E4C13?style=flat-square&logo=x86&logoColor=white" alt="Assembly"/>
   </a>
   
   <br>
