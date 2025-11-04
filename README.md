@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  I'm a <b>Computer Engineering Student</b> (specializing in Software Engineering) at the <b>School of Computer Science (UCLM)</b>. <br>
+  I'm a <b>Computer Engineering Student</b> (specializing in Software Engineering) at the <b>Escuela Superior de Informática (UCLM)</b>. <br>
   I'm passionate about software development, clean architecture, and complex problem-solving.
 </p>
 
