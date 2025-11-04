@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://cortes2003.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDh6TTQgMTJoM2wxLjUtNC41TDEwIDEybDMtOSA0LjUgMTItMyA5LTIuMjUtNi43NUw5IDEyeiIvPjwvc3ZnPg==" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy5TggOC04IDggMy41OSA4IDh6TTQgMTJoM2wxLjUtNC41TDEwIDEybDMtOSA0LjUgMTItMyA5LTIuMjUtNi43NUw5IDEyeiIvPjwvc3ZnPg==" alt="Portfolio"/>
   </a>
 </p>
 
@@ -85,7 +85,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cortes2003&show_icons=true&theme=tokyonight&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortes2003&layout=compact&langs_count=8&theme=tokyonight&count_private=true&exclude_repo=cortes2003.github.io"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortes2003&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=cortes2003.github.io"/>
   </a>
 </p>
 
