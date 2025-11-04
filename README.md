@@ -84,9 +84,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cortes2003&show_icons=true&theme=tokyonight&count_private=true"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortes2003&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=cortes2003.github.io"/>
-  </a>
 </p>
 
 ---
