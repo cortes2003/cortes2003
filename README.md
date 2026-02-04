@@ -79,4 +79,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/cortes2003/2526-cortes2003" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=2526-cortes2003&theme=tokyonight&show_owner=true" alt="2526-cortes2003"></a>
     </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
