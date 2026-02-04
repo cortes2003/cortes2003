@@ -54,23 +54,29 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Course Projects (2025-2026)
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/Sistema_Ficheros_FAT" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=Sistema_Ficheros_FAT&theme=tokyonight&show_owner=true" alt="Sistema_Ficheros_FAT"></a>
+      <a href="https://github.com/cortes2003/TPV-Hosteleria" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=TPV-Hosteleria&theme=tokyonight&show_owner=true" alt="STPV-Hosteleria"></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/Chat_Multithread_C" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=Chat_Multithread_C&theme=tokyonight&show_owner=true" alt="Chat_Multithread_C"></a>
+      <a href="https://github.com/cortes2003/OpoCalendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=OpoCalendar&theme=tokyonight&show_owner=true" alt="OpoCalendar"></a>
     </td>
   </tr>
+  
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/Hundir_la_Flota_Ensamblador" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=Hundir_la_Flota_Ensamblador&theme=tokyonight&show_owner=true" alt="Hundir_la_Flota_Ensamblador"></a>
+      <a href="https://github.com/cortes2003/cortes2003.github.io" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=cortes2003.github.io&theme=tokyonight&show_owner=true" alt="cortes2003.github.io"></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/Bot_Telegram_Python" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=Bot_Telegram_Python&theme=tokyonight&show_owner=true" alt="Bot_Telegram_Python"></a>
+      <a href="https://github.com/cortes2003/Trabajo-SSDD" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=Trabajo-SSDD&theme=tokyonight&show_owner=true" alt="Trabajo-SSDD"></a>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/cortes2003/2526-cortes2003" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=2526-cortes2003&theme=tokyonight&show_owner=true" alt="2526-cortes2003"></a>
+    </td>
 </table>
