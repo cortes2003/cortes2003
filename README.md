@@ -59,7 +59,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/TPV-Hosteleria" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=TPV-Hosteleria&theme=tokyonight&show_owner=true" alt="STPV-Hosteleria"></a>
+      <a href="https://github.com/cortes2003/TPV-Hosteleria" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=TPV-Hosteleria&theme=tokyonight&show_owner=true" alt="TPV-Hosteleria"></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/cortes2003/OpoCalendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=OpoCalendar&theme=tokyonight&show_owner=true" alt="OpoCalendar"></a>
