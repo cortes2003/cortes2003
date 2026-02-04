@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cortes2003&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cortes2003&show_icons=true&theme=tokyonight&count_private=true"/>
   </a>
 </p>
 
@@ -58,28 +58,49 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/TPV-Hosteleria" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=TPV-Hosteleria&theme=tokyonight&show_owner=true" alt="TPV-Hosteleria"></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/cortes2003/TPV-Hosteleria">
+        <img src="https://img.shields.io/badge/Repo-TPV_Hosteleria-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="TPV-Hosteleria">
+        <br>
+        <sub>Sistema de gestión para hostelería</sub>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/OpoCalendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=OpoCalendar&theme=tokyonight&show_owner=true" alt="OpoCalendar"></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/cortes2003/OpoCalendar">
+        <img src="https://img.shields.io/badge/Repo-OpoCalendar-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="OpoCalendar">
+        <br>
+        <sub>Calendario para oposiciones</sub>
+      </a>
     </td>
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/cortes2003.github.io" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=cortes2003.github.io&theme=tokyonight&show_owner=true" alt="cortes2003.github.io"></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/cortes2003/cortes2003.github.io">
+        <img src="https://img.shields.io/badge/Repo-Portfolio_Web-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Web">
+        <br>
+        <sub>Mi página web personal</sub>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/Trabajo-SSDD" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=Trabajo-SSDD&theme=tokyonight&show_owner=true" alt="Trabajo-SSDD"></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/cortes2003/Trabajo-SSDD">
+        <img src="https://img.shields.io/badge/Repo-Trabajo_SSDD-blue?style=for-the-badge&logo=github&logoColor=white" alt="Trabajo SSDD">
+        <br>
+        <sub>Sistemas Distribuidos</sub>
+      </a>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/cortes2003/2526-cortes2003" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cortes2003&repo=2526-cortes2003&theme=tokyonight&show_owner=true" alt="2526-cortes2003"></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/cortes2003/2526-cortes2003">
+        <img src="https://img.shields.io/badge/Repo-2526_cortes2003-orange?style=for-the-badge&logo=github&logoColor=white" alt="2526-cortes2003">
+        <br>
+        <sub>Proyectos Curso 25/26</sub>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      </td>
+    <td width="50%" align="center">
+      🚧 <i>More coming soon...</i>
+    </td>
   </tr>
 </table>
