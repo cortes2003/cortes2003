@@ -1,106 +1,120 @@
-<h1 align="center">
-  Hi! I'm Alberto Cortés Herranz 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <p align="center">
-  I'm a <b>Computer Engineering Student</b> (specializing in Software Engineering) at the <b>Escuela Superior de Informática (UCLM)</b>. <br>
-  I'm passionate about software development, clean architecture, and complex problem-solving.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Alberto%20Cort%C3%A9s%20Herranz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20UCLM&descAlignY=58&descSize=20" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alberto-cort%C3%A9s-herranz-051b25258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:Alberto.Cortes1@alu.uclm.es" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://cortes2003.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy5TggOC04IDggMy41OSA4IDh6TTQgMTJoM2wxLjUtNC41TDEwIDEybDMtOSA0LjUgMTItMyA5LTIuMjUtNi43NUw5IDEyeiIvPjwvc3ZnPg==" alt="Portfolio"/></a>
-</p>
-
----
-
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <b>Main Languages:</b><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  
-  <br>
-  <b>Web Development & Databases:</b><br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
-
-  <br>
-  <b>Tools & Environments:</b><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/></a>
-  <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
-  <a href="https://zeroc.com/products/ice" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ZeroC_Ice-00BFFF?style=flat-square&logo=zeromq&logoColor=white" alt="ZeroC Ice"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cortes2003&show_icons=true&theme=tokyonight&count_private=true"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%40+UCLM;Clean+architecture+%C2%B7+Complex+problem+solving;Looking+for+an+internship+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/albertocortesherranz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alberto.cortesherranz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://cortes2003.github.io/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/cortes2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 ---
 
-### 📂 Course Projects (2025-2026)
+### 🧠 Currently
+
+<p align="center">
+  🔭 Grado en Ingeniería Informática (especialidad Ingeniería del Software) · UCLM<br>
+  🧩 Práctica Integrada ISO · ESIBuy (equipo de 6, Scrum)<br>
+  🎓 Microcredencial en Inteligencia de Procesos · Celonis<br>
+  💼 <b>Buscando prácticas en empresa</b>
+</p>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,ts,js,r,matlab,spring,angular,dotnet,mysql,mongodb,neo4j,git,github,azure,vscode,visualstudio,ubuntu,powerbi&theme=dark" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum-00A6A6?style=flat-square" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/UML-000000?style=flat-square" alt="UML"/>
+  <img src="https://img.shields.io/badge/BPMN-6C3483?style=flat-square" alt="BPMN"/>
+  <img src="https://img.shields.io/badge/ZeroC_Ice-00BFFF?style=flat-square" alt="ZeroC Ice"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square" alt="pytest"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/CodeQL-2EA44F?style=flat-square" alt="CodeQL"/>
+  <img src="https://img.shields.io/badge/Ada-02086B?style=flat-square" alt="Ada"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cortes2003&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cortes2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cortes2003&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/cortes2003/TPV-Hosteleria">
-        <img src="https://img.shields.io/badge/Repo-TPV_Hosteleria-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="TPV-Hosteleria">
-        <br>
-        <sub>Sistema de gestión para hostelería</sub>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/cortes2003/OpoCalendar">
-        <img src="https://img.shields.io/badge/Repo-OpoCalendar-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="OpoCalendar">
-        <br>
-        <sub>Calendario para oposiciones</sub>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/cortes2003/cortes2003.github.io">
-        <img src="https://img.shields.io/badge/Repo-Portfolio_Web-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Web">
-        <br>
-        <sub>Mi página web personal</sub>
-      </a>
+        <img src="https://img.shields.io/badge/TPV_Hosteleria-2ea44f?style=for-the-badge&logo=csharp&logoColor=white" alt="TPV-Hosteleria"/>
+      </a><br>
+      <sub>🍽️ Restaurant POS · C# / WPF · orders, payments & loyalty points</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/cortes2003/Trabajo-SSDD">
-        <img src="https://img.shields.io/badge/Repo-Trabajo_SSDD-blue?style=for-the-badge&logo=github&logoColor=white" alt="Trabajo SSDD">
-        <br>
-        <sub>Sistemas Distribuidos</sub>
-      </a>
+        <img src="https://img.shields.io/badge/Spotifice-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotifice"/>
+      </a><br>
+      <sub>🎵 Distributed music streaming · Python · ZeroC Ice / IceGrid · GTK4</sub>
     </td>
   </tr>
-
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/DiegoOliverOrtiz/Proyecto_ISO_2627">
+        <img src="https://img.shields.io/badge/ESIBuy-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="ESIBuy"/>
+      </a><br>
+      <sub>🛒 Team project (6) · Scrum · Spring Boot 4, Angular, MongoDB · Azure Pipelines CI</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/cortes2003/OpoCalendar">
+        <img src="https://img.shields.io/badge/OpoCalendar-FF8C00?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="OpoCalendar"/>
+      </a><br>
+      <sub>📅 Calendario para oposiciones</sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/cortes2003/2526-cortes2003">
-        <img src="https://img.shields.io/badge/Repo-2526_cortes2003-orange?style=for-the-badge&logo=github&logoColor=white" alt="2526-cortes2003">
-        <br>
-        <sub>Proyectos Curso 25/26</sub>
-      </a>
+        <img src="https://img.shields.io/badge/Curso_25/26-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Curso 25/26"/>
+      </a><br>
+      <sub>📚 Proyectos del curso 25/26</sub>
     </td>
     <td width="50%" align="center">
-      🚧 <i>More coming soon...</i>
+      <a href="https://github.com/cortes2003/cortes2003.github.io">
+        <img src="https://img.shields.io/badge/Portfolio_Web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Web"/>
+      </a><br>
+      <sub>🌐 Mi página web personal</sub>
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cortes2003&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <i>"Clean code is not written by following a set of rules. It's a way of thinking."</i> ✨
+</p>
